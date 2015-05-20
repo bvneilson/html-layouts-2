@@ -1,0 +1,84 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+header {
+	width: 93%;
+	display: flex;
+	background-color: white;
+  justify-content: space-between;
+  margin: 1%;
+}
+
+.topbox {
+	min-height: 50px;
+	width: calc(93% /3);
+}
+
+.left {
+  background-color: red;
+  
+}
+
+.middle {
+  background-color: blue;
+}
+
+.right {
+  background-color: gray;
+}
+
+main {
+  margin-left:10%;
+  margin-right: 10%;
+}
+
+footer {
+  display: flex;
+  width: 90%;
+  height: 20%;
+  justify-content: center;
+  margin: 4%;
+}
+
+.redbox {
+  height: 100%;
+  width: 30%;
+  background-color: red;
+  position: 
+}
+
+.bluebox {
+  width: 70%;
+  height: 100%;
+  background-color: blue;
+  
+}
+
+
+.longblue {
+  width: 90%;
+  height: 20%;
+  background-color: blue;
+  margin: 4%;
+  
+}
+
+.shortred {
+  width: 30%;
+  height: 100%;
+  background-color: red;
+  margin-left: 70%;
+}
+
+.bottomgray {
+  height: 100%;
+  background-color: gray;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+
+
